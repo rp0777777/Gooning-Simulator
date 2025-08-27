@@ -1,4 +1,4 @@
-# Gooning-Simulator<img width="2048" height="2048" alt="Gemini_Generated_Image_9pn3zu9pn3zu9pn3" src="https://github.com/user-attachments/assets/56cddca7-f0fb-4307-bdc4-ee759ea84e18" />
+# Gooning-Simulator<img width="204" height="204" alt="Gemini_Generated_Image_9pn3zu9pn3zu9pn3" src="https://github.com/user-attachments/assets/56cddca7-f0fb-4307-bdc4-ee759ea84e18" />
 
 <h1>Gooning Simulator: A Game for Goofs</h1>
 Let's get one thing straight: Gooning Simulator is not what you think. Seriously. This game is a glorious exercise in absurdity, created just for fun. It’s a ridiculous, minimalist experience that proves you don't need a complex story or high-end graphics to have a good time.
